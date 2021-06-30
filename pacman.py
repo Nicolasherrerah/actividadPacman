@@ -1,3 +1,12 @@
+"""
+Actividad 3: Juego Pacman
+
+Equipo 2:
+Francisco Vázquez, A00827546
+Nicolás Herrera, A01114972
+Ana Paula López, A01378255
+"""
+
 from random import choice
 from turtle import *
 from freegames import floor, vector
